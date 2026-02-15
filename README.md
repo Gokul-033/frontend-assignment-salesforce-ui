@@ -49,7 +49,8 @@ README.md
 1. Clone the repository
 2. Open `index.html` in your browser
 
-Or view the live demo using the link provided in the submission email.
+Or view the live demo:
+🔗 https://gokul-033.github.io/frontend-assignment-salesforce-ui/
 
 ---
 
